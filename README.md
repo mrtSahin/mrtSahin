@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrtSahin
-- 👀 I’m interested <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, JavaScript, HTML, CSS, SCSS, Python (and Angular coming soon).
+- 👀 I’m interested ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) , JavaScript, HTML, CSS, SCSS, Python (and Angular coming soon).
 - 💞️ I’m looking to collaborate on React, Angular.
 - 📫 How to reach me 
 
