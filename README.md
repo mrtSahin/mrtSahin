@@ -4,9 +4,7 @@
 - 📫 How to reach me 
 
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mrtSahin&include_all_commits=true&show_icons=true&theme=radical">
-</p>
+
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtSahin&layout=compact">
 </p>
